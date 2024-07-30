@@ -2,3 +2,15 @@
 // @use 'base';
 // @use 'layout';
 // @use 'components';
+
+// @use 'lesson-05/variables';
+// @use 'lesson-05/button';
+// @use 'lesson-05/scopes';
+// @use 'lesson-06/nesting';
+// @use 'lesson-06/combinators';
+// @use 'lesson-06/ampersand';
+@use 'lesson-07/math';
+@use 'lesson-07/task-badge';
+
+/* == END == */
+@use 'lesson-05/base';
